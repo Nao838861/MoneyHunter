@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=RZi_fvir1dw
 
  ## 起動方法
  DDTest.exeが実行ファイルになりますが、古いDirectXのフルスクリーンモードで作られたものなので、そのままでは起動できません。
- DxWnd という古いフルスクリーンで起動するソフトを、ウインドウ化して起動できるようにするツールが必要です。
+ DxWnd という古いフルスクリーンで起動するソフトを、ウインドウ化して起動できるようにするツールが必要です。以下の手順に従って準備してください。
  
 1. https://www.gigafree.net/utility/window/DxWnd.html を参考に、DxWndをインストールして、DDTest.exe をドラッグ&ドロップしてください。
 2. DDTest を右クリックして、Modifi を選択してください
