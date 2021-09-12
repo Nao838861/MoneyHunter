@@ -1,6 +1,7 @@
 # MoneyHunter
  <img width="540" alt="無題" src="https://user-images.githubusercontent.com/7016217/132972039-97b25f9d-570a-47e2-8a7d-1ad736db71fa.png">
 1997年ごろに作った、コインを集めてお金をためて、残機や武器を買ってパワーアップするシューティングゲームです。
+バランス調整などできていない未完成のゲームなので、ご注意ください
 
 ## 動画
 https://www.youtube.com/watch?v=RZi_fvir1dw
