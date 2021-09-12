@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=RZi_fvir1dw
  DxWnd という古いフルスクリーンで起動するソフトを、ウインドウ化して起動できるようにするツールが必要です。以下の手順に従って準備してください。
  
 1. https://www.gigafree.net/utility/window/DxWnd.html を参考に、DxWndをインストールして、DDTest.exe をドラッグ&ドロップしてください。
-2. DDTest を右クリックして、Modifi を選択してください
+2. ウインドウ上に追加された DDTest を右クリックして、Modifi を選択してください
 <img width="220" alt="無題2" src="https://user-images.githubusercontent.com/7016217/132972204-fc2c1c81-1c7e-4468-8ce8-b6ec616819f8.png">
 3. DirectX(2) のタブの VSysc の項目をON に設定してください(これをやらないと、速度が速すぎて遊べません)
 <img width="351" alt="無題2" src="https://user-images.githubusercontent.com/7016217/132972289-9f5ad029-d8ba-4345-ad52-b641875d979f.png">
