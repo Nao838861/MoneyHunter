@@ -1,5 +1,6 @@
 # MoneyHunter
  <img width="540" alt="無題" src="https://user-images.githubusercontent.com/7016217/132972039-97b25f9d-570a-47e2-8a7d-1ad736db71fa.png">
+
 ## 動画
 https://www.youtube.com/watch?v=RZi_fvir1dw
 
@@ -7,6 +8,12 @@ https://www.youtube.com/watch?v=RZi_fvir1dw
  ## ダウンロード方法
  <img width="303" alt="無題2" src="https://user-images.githubusercontent.com/7016217/132971974-6620a16f-8dd1-4d66-a610-3777b4b067ff.png">
 右上にある Code→Download ZIP からダウンロードしてください
+
+##起動方法
+1. https://www.gigafree.net/utility/window/DxWnd.html を参考に、DxWndをインストールして、DDTest.exe をドラッグ&ドロップしてください。
+2. DDTest を右クリックして、Modifi を選択してください
+<img width="220" alt="無題2" src="https://user-images.githubusercontent.com/7016217/132972204-fc2c1c81-1c7e-4468-8ce8-b6ec616819f8.png">
+3. 
 
 ## 操作方法
 カーソルキー : 上下左右に移動
